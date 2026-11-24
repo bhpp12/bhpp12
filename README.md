@@ -28,16 +28,6 @@ Data Science undergraduate at the Federal University of Ceará (UFC), with hands
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<br>
-
-| Category | Technologies & Techniques |
-| :--- | :--- |
-| **Languages** | Python, SQL, R |
-| **Data Analysis & ETL** | Pandas, NumPy, BeautifulSoup, Requests, REST APIs (JSON), Data Cleaning, EDA, Descriptive & Inferential Statistics |
-| **Machine Learning & AI** | Scikit-learn, Decision Trees, Bayesian Networks, Search Algorithms, Anomaly Detection (Isolation Forest, LOF, k-NN, One-Class SVM), Generative AI |
-| **Cloud & Databases** | Google Cloud Platform (GCP), BigQuery, Relational Databases |
-| **Visualization & Workflow** | Looker Studio, Streamlit, Matplotlib, Plotly, Git, GitHub, Scrum |
-
 ---
 
 ## Contact
