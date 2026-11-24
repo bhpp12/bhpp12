@@ -16,7 +16,7 @@ Data Science undergraduate at the Federal University of Ceará (UFC), with hands
 | **Cloud & Databases** | Google Cloud Platform (BigQuery), Relational Databases |
 | **Visualization & Tools** | Looker Studio, Streamlit, Matplotlib, Plotly, Git, GitHub, Scrum |
 
-## 📫 Let's connect!
+## Contact
 
 * **LinkedIn:** [linkedin.com/in/bruno-henrique-pacheco-prudêncio-b53891331](https://www.linkedin.com/in/bruno-henrique-pacheco-prudêncio-b53891331)
 * **Email:** brunohenriquepp12@gmail.com
