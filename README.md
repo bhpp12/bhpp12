@@ -2,7 +2,7 @@
 
 ### 🚀 Bachelor's Student in Data Science | Universidade Federal do Ceará (UFC)
 
-Data Science undergraduate at the Federal University of Ceará (UFC), with hands-on experience in ETL pipelines, Web Scraping, API integration, Exploratory Data Analysis (EDA), and Cloud Computing (GCP). Passionate about transforming raw data into actionable insights through Machine Learning, Artificial Intelligence, and Statistical Modeling.
+Data Science undergraduate at the Federal University of Ceará (UFC), with hands-on experience in ETL pipelines, Web Scraping, API integration, Exploratory Data Analysis (EDA), and Cloud Computing (GCP). Passionate about transforming raw data into actionable insights through Machine Learning, Bayesian Networks, Anomaly Detection, and Statistical Modeling.
 
 ---
 
@@ -30,7 +30,16 @@ Data Science undergraduate at the Federal University of Ceará (UFC), with hands
 
 ---
 
-## 📫 Contact
+## 🌍 Languages
+
+* 🇧🇷 **Portuguese:** Native
+* 🇬🇧 **English:** Advanced / Fluent — *Cambridge English C1 Certified*
+* 🇪🇸 **Spanish:** Basic
+* 🇩🇪 **German:** Basic
+  
+---
+
+## 📫 Let's connect!
 
 * **LinkedIn:** [linkedin.com/in/bruno-henrique-pacheco-prudêncio-b53891331](https://www.linkedin.com/in/bruno-henrique-pacheco-prudêncio-b53891331)
 * **Email:** brunohenriquepp12@gmail.com
