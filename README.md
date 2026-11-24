@@ -30,7 +30,7 @@ Data Science undergraduate at the Federal University of Ceará (UFC), with hands
 
 ---
 
-## Contact
+## 📫 Contact
 
 * **LinkedIn:** [linkedin.com/in/bruno-henrique-pacheco-prudêncio-b53891331](https://www.linkedin.com/in/bruno-henrique-pacheco-prudêncio-b53891331)
 * **Email:** brunohenriquepp12@gmail.com
